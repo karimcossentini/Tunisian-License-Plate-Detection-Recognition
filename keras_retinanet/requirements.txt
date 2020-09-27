@@ -1,0 +1,15 @@
+cython
+keras-resnet==0.1.0
+h5py
+keras
+matplotlib
+numpy>=1.14
+opencv-python>=3.3.0
+pillow
+progressbar2
+tensorflow
+Werkzeug==0.14.1
+Flask==0.12.2
+numpy==1.17.2
+gunicorn==19.7.1
+gevent
